@@ -30,7 +30,7 @@
     "coverage-publish": "aegir coverage --provider coveralls"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "^14.16.1"
   },
   "repository": {
     "type": "git",
